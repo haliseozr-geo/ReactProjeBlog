@@ -1,0 +1,138 @@
+{
+  "blogPosts": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "image": "images/img2.jpg",
+      "title": "Blog Yazısı Başlığı 1",
+      "content1": "Lorem ipsum dolor sit amet",
+      "content2": "Morbi felis libero, gravida ac odio eu, porttitor dictum neque. Aenean imperdiet lacus nec lacus fermentum, ac scelerisque tortor tempor. Duis mollis turpis sit amet odio auctor, in volutpat libero ornare. Nam lobortis feugiat felis. Suspendisse at malesuada massa. Aliquam id sagittis dolor, nec tincidunt magna.",
+      "author": "Yazar 1",
+      "date": "2023-05-31"
+    
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "image": "images/img1.jpg",
+      "title": "Blog Yazısı Başlığı 2",
+      "content1": "Vestibulum vestibulum turpis id ",
+      "content2": "Vestibulum vestibulum turpis id accumsan sagittis. Maecenas hendrerit libero vitae dolor egestas, placerat venenatis justo volutpat. Sed commodo turpis dolor, non dignissim felis interdum at. Morbi ornare dignissim sem ut efficitur. Donec ac erat suscipit, rutrum ligula at, varius lectus. Aliquam sit amet sem ligula. Cras aliquam purus a elit condimentum, vel pellentesque nulla mattis.",
+      "author": "Yazar 2",
+      "date": "2023-04-20"
+    },
+    {
+      "id": 3,
+      "categoryId": 4,
+      "image": "images/img4.jpg",
+      "title": "Blog Yazısı Başlığı 3",
+      "content1": "Cras sit amet accumsan risus",
+      "content2": "Cras sit amet accumsan risus. Ut leo erat, dignissim ac ipsum nec, dictum mattis libero. Mauris fermentum tellus eu libero cursus pulvinar. Vestibulum quis suscipit libero. Nunc sed scelerisque enim. Integer maximus nibh vel enim fringilla, ut iaculis diam viverra. Praesent nec metus mollis, fermentum nibh in, vehicula est. Proin sagittis ut urna ut pharetra. Suspendisse mollis diam vitae imperdiet venenatis. Donec vehicula, eros at sodales semper, enim sem pretium orci, sed cursus magna mi at diam. Donec lobortis sagittis metus ut rhoncus.",
+      "author": "Yazar 2",
+      "date": "2023-03-10"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "image": "images/img4.jpg",
+      "title": "Blog Yazısı Başlığı 4",
+      "content1": "Vivamus non fermentum nisi",
+      "content2": "Vivamus non fermentum nisi. Quisque a diam in nulla cursus mattis. Mauris sed mauris et nisl sagittis laoreet. Quisque rutrum, dolor a scelerisque congue, tortor ante venenatis augue, vitae bibendum tortor velit non mi. Nulla maximus neque fermentum, rhoncus dolor et, maximus erat. Quisque euismod dapibus magna, sit amet auctor lorem venenatis id. Pellentesque maximus sit amet risus sit amet pulvinar. Proin molestie lobortis leo. Ut eu dolor elit. Donec pretium quis quam eu imperdiet.",
+      "author": "Yazar 3",
+      "date": "2023-02-05"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "image": "images/img2.jpg",
+      "title": "Blog Yazısı Başlığı 5",
+      "content1": "Mauris eu rhoncus nibh.",
+      "content2": "Praesent finibus volutpat massa, sit amet posuere metus auctor non. Nullam at imperdiet nibh. Sed consectetur magna rhoncus, egestas urna sed, dapibus leo. Integer luctus neque dapibus elementum pulvinar. Nullam volutpat neque quis purus cursus rhoncus. Praesent id suscipit velit, at euismod diam. Mauris eu rhoncus nibh. Fusce viverra ultrices enim quis sodales. Fusce in justo ut ipsum porttitor tincidunt sit amet a turpis. Proin nec finibus eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce nec justo diam. Praesent quis tempor diam. Ut cursus leo dui, a consequat magna posuere eu. Nam sodales, risus ut cursus aliquet, quam mauris convallis elit, vitae tincidunt libero erat non diam. Donec tempus sit amet felis a tempus.",
+      "author": "Yazar 4",
+      "date": "2023-05-31"
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "image": "images/img3.jpg",
+      "title": "Blog Yazısı Başlığı 6",
+      "content1": "Aliquam facilisis felis eu neque",
+      "content2": "Morbi vitae rhoncus ligula, vel dapibus massa. Nulla eu magna vitae felis consequat dapibus. Aliquam et volutpat dolor, at interdum velit. Nullam nec rutrum dolor. Fusce fringilla egestas eros nec tincidunt. Vivamus lacinia risus non nulla iaculis, vitae ullamcorper eros auctor. Aliquam facilisis felis eu neque consectetur, at suscipit nunc elementum.",
+      "author": "Yazar 5",
+      "date": "2023-03-22"
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "image": "images/img2.jpg",
+      "title": "Blog Yazısı Başlığı 7",
+      "content1": "Interdum et malesuada fames ac",
+      "content2": "Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ultrices dolor posuere suscipit lobortis. Integer vitae risus rhoncus, vehicula tellus quis, scelerisque velit. Vivamus at feugiat lorem, sit amet aliquam augue. Sed sed diam eu ligula scelerisque tempus ac a nunc. Donec vel quam malesuada, venenatis ante a, pellentesque arcu. Nunc lobortis, eros sed convallis fringilla, nunc eros faucibus justo, id lobortis dui arcu sed lectus. Mauris pretium luctus mauris, eget finibus ex varius at.",
+      "author": "Yazar 2",
+      "date": "2023-05-31"
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "image": "images/img1.jpg",
+      "title": "Blog Yazısı Başlığı 8",
+      "content1": "Quisque eget varius tortor.",
+      "content2": "Nunc eleifend pharetra tortor, id aliquam quam vehicula sit amet. Duis quam massa, tincidunt viverra varius ac, tristique a purus. Aenean vulputate dolor eros, id fermentum arcu lobortis non. Sed sed arcu eu felis tincidunt lacinia. Aenean suscipit ullamcorper eros. Duis interdum ligula fringilla ante pretium aliquet. Quisque euismod, ligula nec facilisis mattis, lorem leo vulputate nulla, ac pretium nisi est id libero. Quisque eget varius tortor.",
+      "author": "Yazar 3",
+      "date": "2023-03-13"
+    },
+    {
+      "id": 9,
+      "categoryId": 4,
+      "image": "images/img4.jpg",
+      "title": "Blog Yazısı Başlığı 9",
+      "content1": "Curabitur pulvinar, diam a ullamcorper",
+      "content2": "Curabitur pulvinar, diam a ullamcorper suscipit, enim urna laoreet nunc, sit amet consequat tellus urna non libero. Nam molestie egestas quam. Fusce consequat justo eu cursus lacinia. Praesent varius arcu a est aliquet malesuada. Nam consequat urna nec vestibulum luctus. Mauris ultricies massa in erat pretium bibendum. Duis porta suscipit imperdiet. Sed tincidunt pharetra erat et pulvinar. Sed sit amet nisi vel est aliquam hendrerit.",
+      "author": "Yazar 5",
+      "date": "2023-05-31"
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "image": "images/img2.jpg",
+      "title": "Blog Yazısı Başlığı 10",
+      "content1": "Curabitur sit amet ipsum massa.",
+      "content2": "Proin bibendum, nisi luctus posuere dignissim, dolor erat volutpat erat, sed aliquam lacus felis a nisi. Morbi tristique tempor eros ut ultricies. In ullamcorper pretium bibendum. Etiam condimentum, dui ut aliquet blandit, ipsum velit tempus turpis, sed tincidunt eros nibh non dui. Aliquam id ex eget ex sagittis euismod ac et neque. Aliquam vel bibendum diam. Nam nunc sem, varius quis ante a, rutrum rutrum purus. Sed a sem aliquet nulla ultricies mollis.",
+      "author": "Yazar 2",
+      "date": "2023-05-31"
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "image": "images/img3.jpg",
+      "title": "Blog Yazısı Başlığı 11",
+      "content1": "Duis non velit ante.",
+      "content2": "Mauris et augue elit. Nulla eros elit, mattis vitae ultricies et, commodo vitae nisl. Suspendisse tempus lobortis malesuada. Ut eget odio lacinia, iaculis neque mattis, lobortis leo. Duis non velit ante. Integer interdum, libero vitae ornare sollicitudin, nisl leo vulputate metus, at tristique odio justo varius diam. Aliquam erat volutpat. Vivamus quis risus sem. Fusce iaculis urna ut gravida rhoncus.",
+      "author": "Yazar 2",
+      "date": "2023-01-21"
+    }
+   
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Ekonomi"
+     
+    },
+    {
+      "id": 2,
+      "categoryName": "Siyaset"
+     
+    },
+    {
+      "id": 3,
+      "categoryName": "Bilim Teknoloji"
+     
+    },
+    {
+      "id": 4,
+      "categoryName": "Dünya"
+    
+    }
+  ]
+}
